@@ -118,4 +118,9 @@
     <string name="screen_overlay_title" msgid="3021729846864038529">"Display-Overlay erkannt"</string>
     <string name="screen_overlay_message" msgid="2141944461571677331">"Um diese Berechtigungseinstellung zu ändern, müssen Sie zunächst das Display-Overlay über \"Einstellungen\" &gt; \"Apps\" deaktivieren."</string>
     <string name="screen_overlay_button" msgid="4344544843349937743">"Einstellungen öffnen"</string>
+
+    <string name="no_perms">Für diese App sind keine Berechtigungen erforderlich.</string>
+    <string name="currentVersion">Aktuelle Version:</string>
+    <string name="newVersion">Neue Version:</string>
+    <string name="not_available">nicht verfügbar</string>
 </resources>
