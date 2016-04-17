@@ -137,7 +137,7 @@
   <!-- Tab label for permissions related to device behavior [CHAR LIMIT=20] -->
   <string name="devicePerms">Gerätezugriff</string>
   <!-- Tab label for version information [CHAR LIMIT=20] -->
-  <string name="appVersion">Version Info</string>
+  <string name="appVersion">Versionsinformationen</string>
   <!-- Body text for new tab when there are no new permissions [CHAR LIMIT=NONE] -->
   <string name="no_new_perms">Für dieses Update sind keine neuen Berechtigungen erforderlich.</string>
   <string name="grant_confirm_question">Möchten Sie die folgenden Berechtigungen gewähren? Diese ermöglichen den Zugriff auf Folgendes:</string>
