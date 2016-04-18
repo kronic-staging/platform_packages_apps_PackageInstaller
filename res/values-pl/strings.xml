@@ -212,7 +212,7 @@
          before permissions can be changed. [CHAR LIMIT=NONE] -->
   <string name="screen_overlay_button">Otwórz ustawienia</string>
   <!-- Body text for new tab when there are no permissions [CHAR LIMIT=NONE] -->
-  <string name="no_perms">This app requires no permissions.</string>
+  <string name="no_perms">Ta aplikacja nie wymaga żadnych uprawnień.</string>
   <string name="currentVersion">Bieżąca wersja:</string>
   <string name="newVersion">Nowa wersja:</string>
   <string name="not_available">niedostępne</string>

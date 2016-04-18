@@ -137,7 +137,7 @@
   <!-- Tab label for permissions related to device behavior [CHAR LIMIT=20] -->
   <string name="devicePerms">Accesso dispositivo</string>
   <!-- Tab label for version information [CHAR LIMIT=20] -->
-  <string name="appVersion">Version Info</string>
+  <string name="appVersion">Info sulla versione</string>
   <!-- Body text for new tab when there are no new permissions [CHAR LIMIT=NONE] -->
   <string name="no_new_perms">Questo aggiornamento non richiede nuove autorizzazioni.</string>
   <string name="grant_confirm_question">Vuoi concedere le autorizzazioni che seguono? Concederai l\'accesso a:</string>
@@ -211,8 +211,8 @@
          before permissions can be changed. [CHAR LIMIT=NONE] -->
   <string name="screen_overlay_button">Apri impostazioni</string>
   <!-- Body text for new tab when there are no permissions [CHAR LIMIT=NONE] -->
-  <string name="no_perms">This app requires no permissions.</string>
-  <string name="currentVersion">Current Version:</string>
-  <string name="newVersion">New Version:</string>
-  <string name="not_available">not available</string>
+  <string name="no_perms">L\'app non richiede permessi.</string>
+  <string name="currentVersion">Versione attuale:</string>
+  <string name="newVersion">Nuova Versione:</string>
+  <string name="not_available">non disponibile</string>
 </resources>
