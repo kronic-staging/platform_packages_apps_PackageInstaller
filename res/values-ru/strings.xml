@@ -137,7 +137,7 @@
   <!-- Tab label for permissions related to device behavior [CHAR LIMIT=20] -->
   <string name="devicePerms">Доступ к устройству</string>
   <!-- Tab label for version information [CHAR LIMIT=20] -->
-  <string name="appVersion">Version Info</string>
+  <string name="appVersion">Версия</string>
   <!-- Body text for new tab when there are no new permissions [CHAR LIMIT=NONE] -->
   <string name="no_new_perms">Установка этого обновления не требует новых разрешений.</string>
   <string name="grant_confirm_question">Предоставить следующие разрешения? Вот к чему будет получен доступ:</string>
