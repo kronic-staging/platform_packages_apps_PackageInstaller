@@ -23,7 +23,7 @@
   <string name="security_settings_desc">Alkalmazás engedélyezése a következőkre:</string>
   <string name="cancel">Mégse</string>
   <string name="unknown">Ismeretlen</string>
-  <string name="installing">Telepítés...</string>
+  <string name="installing">Telepítés\u2026</string>
   <string name="install_done">Alkalmazás telepítve.</string>
   <!-- Message for installing a new app that requires some permissions [CHAR LIMIT=NONE] -->
   <string name="install_confirm_question">Telepíti ezt az alkalmazást? Az a következőkhöz fog hozzáférést kapni:</string>
@@ -105,7 +105,7 @@
   <string name="uninstall_application_text_all_users">Szeretné eltávolítani ezt az alkalmazást \"<b>"minden"</b>\" felhasználónál? Az alkalmazást és adatait az eszköz \"<b>"minden"</b>\" felhasználójánál töröljük.</string>
   <string name="uninstall_application_text_user">Eltávolítja ezt az alkalmazást <xliff:g id="USERNAME">%1$s</xliff:g> felhasználó esetében?</string>
   <string name="uninstall_update_text">Szeretné lecserélni az alkalmazást a gyári verzióra?</string>
-  <string name="uninstalling">Eltávolítás...</string>
+  <string name="uninstalling">Eltávolítás\u2026</string>
   <string name="uninstall_done">Az eltávolítás befejeződött.</string>
   <string name="uninstall_failed">Az eltávolítás sikertelen.</string>
   <!-- String presented to the user when uninstalling a package failed because the target package
